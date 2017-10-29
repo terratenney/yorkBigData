@@ -1,0 +1,22 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\hermitus\Documents\york_class\yorkBigData
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=6e3cb40779860c82b18f537b2f70619abdcb311f053f8bbd
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=6e3cb40779860c82b18f537b2f70619abdcb311f053f8bbd
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Kernel started: 0b7d9cef-26b7-497a-8a9d-a65789a10207
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 0b7d9cef-26b7-497a-8a9d-a65789a10207
+[NotebookApp | INFO] Saving file at /assignments/01.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | INFO] Validating 'C:\Users\hermitus\Documents\york_class\yorkBigData\assignments\01.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python2
+[NotebookApp | INFO] Saving file at /assignments/01.ipynb
+[NotebookApp | INFO] Interrupted...
+[NotebookApp | INFO] Shutting down kernels
+[NotebookApp | INFO] Kernel shutdown: 0b7d9cef-26b7-497a-8a9d-a65789a10207
