@@ -139,3 +139,17 @@
 [NotebookApp | INFO] Kernel shutdown: d4fa14d6-b394-40ce-87d1-277c733b3336
 [NotebookApp | INFO] Kernel shutdown: e0cfb5f1-574f-4539-a17e-71e6f266212c
 [NotebookApp | INFO] Kernel shutdown: 8ac48b59-ac46-4b1d-8aac-f6fe968e7501
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\hermitus\Documents\york_class\yorkBigData
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8889/?token=5bdde72a19aafa04bc498a7fc2db5a6daf67683939d9b7eb
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8889/?token=5bdde72a19aafa04bc498a7fc2db5a6daf67683939d9b7eb
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Interrupted...
+[NotebookApp | INFO] Shutting down kernels

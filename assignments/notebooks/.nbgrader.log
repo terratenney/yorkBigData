@@ -1,0 +1,34 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\hermitus\Documents\york_class\yorkBigData\assignments\notebooks
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=ec7026614590c6bd7cc4bcb9f2aae236b0faade0de4c1948
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=ec7026614590c6bd7cc4bcb9f2aae236b0faade0de4c1948
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Kernel started: 962b74d6-404a-47e6-b4e4-6202df71525b
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 962b74d6-404a-47e6-b4e4-6202df71525b
+[NotebookApp | INFO] Saving file at /01 - Introduction to Python (Basics).ipynb
+[NotebookApp | INFO] Kernel started: 5fd31aa9-f992-4dde-8554-9db3ab476de7
+[NotebookApp | WARNING] Deprecated files/ URL: files/images/df1.jpg
+[NotebookApp | INFO] 302 GET /notebooks/files/images/df1.jpg (::1) 2.00ms
+[NotebookApp | WARNING] Deprecated files/ URL: files/images/df2.jpg
+[NotebookApp | INFO] 302 GET /notebooks/files/images/df2.jpg (::1) 2.00ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5fd31aa9-f992-4dde-8554-9db3ab476de7
+[NotebookApp | INFO] Saving file at /02 -  Intro to Pandas.ipynb
+[NotebookApp | INFO] Saving file at /02 -  Intro to Pandas.ipynb
+[NotebookApp | INFO] Saving file at /02 -  Intro to Pandas.ipynb
+[NotebookApp | INFO] Saving file at /02 -  Intro to Pandas.ipynb
+[NotebookApp | INFO] Kernel started: a9561dcd-84ca-479e-ac18-0acf67f3e98e
+[NotebookApp | INFO] 302 GET /notebooks/images/estimating_coefficients.png (::1) 2.00ms
+[NotebookApp | INFO] 302 GET /notebooks/images/slope_intercept.png (::1) 3.00ms
+[NotebookApp | INFO] 302 GET /notebooks/images/r_squared.png (::1) 2.00ms
+[NotebookApp | INFO] Kernel started: b6db0117-0cca-4de1-af43-72da30888ecd
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a9561dcd-84ca-479e-ac18-0acf67f3e98e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b6db0117-0cca-4de1-af43-72da30888ecd
+[NotebookApp | INFO] Interrupted...
+[NotebookApp | INFO] Shutting down kernels
