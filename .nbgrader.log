@@ -153,3 +153,51 @@
 [NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
 [NotebookApp | INFO] Interrupted...
 [NotebookApp | INFO] Shutting down kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\hermitus\Documents\york_class\yorkBigData
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=0f89d3cea7f1d38bc2c6bf9089513d20314fcd7734711fad
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=0f89d3cea7f1d38bc2c6bf9089513d20314fcd7734711fad
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] Notebook submissions/priebe_jim_week1.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 10509874-3c1a-4f37-a31d-dd32de2652c5
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 10509874-3c1a-4f37-a31d-dd32de2652c5
+[NotebookApp | WARNING] Notebook submissions/priebe_jim_week2.ipynb is not trusted
+[NotebookApp | WARNING] Notebook submissions/Salinas_Rafael_week2.ipynb is not trusted
+[NotebookApp | WARNING] Notebook submissions/Samanta_Soumya_week2.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 5e50a93a-64a5-4f93-adc0-179cfb9434c0
+[NotebookApp | WARNING] Notebook submissions/Sorkhpar_Behnoush_Week2.ipynb is not trusted
+[NotebookApp | WARNING] Notebook submissions/Valiji_Ali_Week2.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 349b2aaf-63a3-4d3d-97ca-6d1ca3ca5ea0
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5e50a93a-64a5-4f93-adc0-179cfb9434c0
+[NotebookApp | INFO] Kernel started: b3f533d6-a7bc-4bd2-b5af-504a68bd15c1
+[NotebookApp | WARNING] Deprecated files/ URL: submissions/files/images/df1.jpg
+[NotebookApp | WARNING] 404 GET /notebooks/submissions/files/images/df1.jpg (::1) 50.00ms referer=http://localhost:8888/notebooks/submissions/priebe_jim_week2.ipynb
+[NotebookApp | WARNING] Deprecated files/ URL: submissions/files/images/df2.jpg
+[NotebookApp | WARNING] 404 GET /notebooks/submissions/files/images/df2.jpg (::1) 4.00ms referer=http://localhost:8888/notebooks/submissions/priebe_jim_week2.ipynb
+[NotebookApp | WARNING] Notebook submissions/week2 jupyter notebook (Beatrice).ipynb is not trusted
+[NotebookApp | INFO] Kernel started: fd056f83-186d-43c7-8fc7-ea1957f6428e
+[NotebookApp | INFO] Kernel started: 565b0286-bd22-4720-a66e-bb3d66e2b570
+[NotebookApp | INFO] Kernel started: e2f90b49-5479-4b0b-bfe9-bbabb581b69d
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 349b2aaf-63a3-4d3d-97ca-6d1ca3ca5ea0
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b3f533d6-a7bc-4bd2-b5af-504a68bd15c1
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 565b0286-bd22-4720-a66e-bb3d66e2b570
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel fd056f83-186d-43c7-8fc7-ea1957f6428e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e2f90b49-5479-4b0b-bfe9-bbabb581b69d
+[NotebookApp | INFO] Saving file at /submissions/Samanta_Soumya_week2.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook submissions/Samanta_Soumya_week2.ipynb
+[NotebookApp | INFO] Saving file at /submissions/Sorkhpar_Behnoush_Week2.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook submissions/Sorkhpar_Behnoush_Week2.ipynb
+[NotebookApp | INFO] Saving file at /submissions/week2 jupyter notebook (Beatrice).ipynb
+[NotebookApp | INFO] Saving file at /submissions/Valiji_Ali_Week2.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook submissions/Valiji_Ali_Week2.ipynb
+[NotebookApp | INFO] Saving file at /submissions/Salinas_Rafael_week2.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook submissions/Salinas_Rafael_week2.ipynb
+[NotebookApp | INFO] Interrupted...
+[NotebookApp | INFO] Shutting down kernels
