@@ -201,3 +201,97 @@
 [NotebookApp | WARNING] Saving untrusted notebook submissions/Salinas_Rafael_week2.ipynb
 [NotebookApp | INFO] Interrupted...
 [NotebookApp | INFO] Shutting down kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\hermitus\Documents\york_class\yorkBigData
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=885898265866c018de48ad7f83795f5dc33e5e8ab590bf18
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=885898265866c018de48ad7f83795f5dc33e5e8ab590bf18
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Kernel started: 061981f2-f42a-4566-b564-cc7184ea590b
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 061981f2-f42a-4566-b564-cc7184ea590b
+[NotebookApp | INFO] Saving file at /assignments/notebooks/03 - Pandas - Data Structures Continued... and Data Visualization.ipynb
+[NotebookApp | INFO] Saving file at /assignments/notebooks/03 - Pandas - Data Structures Continued... and Data Visualization.ipynb
+[NotebookApp | INFO] Saving file at /assignments/notebooks/03 - Pandas - Data Structures Continued... and Data Visualization.ipynb
+[NotebookApp | INFO] Saving file at /assignments/notebooks/03 - Pandas - Data Structures Continued... and Data Visualization.ipynb
+[NotebookApp | INFO] Saving file at /assignments/notebooks/03 - Pandas - Data Structures Continued... and Data Visualization.ipynb
+[NotebookApp | INFO] Saving file at /assignments/notebooks/03 - Pandas - Data Structures Continued... and Data Visualization.ipynb
+[NotebookApp | INFO] Kernel started: 6973a53f-c823-4b5e-9828-2148e8e2f639
+[NotebookApp | INFO] 302 GET /notebooks/assignments/notebooks/images/estimating_coefficients.png (::1) 2.00ms
+[NotebookApp | INFO] 302 GET /notebooks/assignments/notebooks/images/slope_intercept.png (::1) 2.00ms
+[NotebookApp | INFO] 302 GET /notebooks/assignments/notebooks/images/r_squared.png (::1) 1.00ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 6973a53f-c823-4b5e-9828-2148e8e2f639
+[NotebookApp | INFO] Saving file at /assignments/notebooks/04 - Case study - Regression.ipynb
+[NotebookApp | INFO] Saving file at /assignments/notebooks/04 - Case study - Regression.ipynb
+[NotebookApp | INFO] Copying assignments/notebooks/04 - Case study - Regression.ipynb to /assignments/notebooks
+[NotebookApp | INFO] 302 GET /notebooks/assignments/notebooks/images/estimating_coefficients.png (::1) 1.00ms
+[NotebookApp | INFO] 302 GET /notebooks/assignments/notebooks/images/slope_intercept.png (::1) 2.00ms
+[NotebookApp | INFO] 302 GET /notebooks/assignments/notebooks/images/r_squared.png (::1) 1.00ms
+[NotebookApp | INFO] Kernel started: 3d44ac1f-c18e-456c-88cb-fd629042f808
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 3d44ac1f-c18e-456c-88cb-fd629042f808
+[NotebookApp | WARNING] Unknown error renaming file: assignments/notebooks/04 - Case study - Regression-Copy1.ipynb [Errno 22] invalid mode ('wb') or filename: u'C:\\Users\\hermitus\\Documents\\york_class\\yorkBigData\\assignments\\notebooks\\04 - Crash course into "Models".ipynb'
+[NotebookApp | ERROR] {
+      "Origin": "http://localhost:8888", 
+      "Content-Length": "72", 
+      "Accept-Language": "en-US,en;q=0.8", 
+      "Accept-Encoding": "gzip, deflate, sdch, br", 
+      "X-Xsrftoken": "2|35af20a2|37f7ddfd76f58cf6e0e0ea664f8b149f|1511313369", 
+      "Host": "localhost:8888", 
+      "Accept": "application/json, text/javascript, */*; q=0.01", 
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36", 
+      "Dnt": "1", 
+      "Connection": "keep-alive", 
+      "X-Requested-With": "XMLHttpRequest", 
+      "Referer": "http://localhost:8888/notebooks/assignments/notebooks/04%20-%20Case%20study%20-%20Regression-Copy1.ipynb", 
+      "Cookie": "_xsrf=2|35af20a2|37f7ddfd76f58cf6e0e0ea664f8b149f|1511313369; username-localhost-8888=\"2|1:0|10:1511561559|23:username-localhost-8888|44:N2QwZjc2MDY1N2E2NGMwNTg4NDRhYzExNDAyOTFhMTE=|d9fb2f67d1e98ba1d04bb46306dcadc0391cfe3aaf828a5733a650b97ae6f70b\"", 
+      "Content-Type": "application/json"
+    }
+[NotebookApp | ERROR] 500 PATCH /api/contents/assignments/notebooks/04%20-%20Case%20study%20-%20Regression-Copy1.ipynb (::1) 14.00ms referer=http://localhost:8888/notebooks/assignments/notebooks/04%20-%20Case%20study%20-%20Regression-Copy1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/notebooks/04 - One way to model it.ipynb
+[NotebookApp | INFO] Saving file at /assignments/notebooks/04 - One way to model it.ipynb
+[NotebookApp | WARNING] Notebook assignments/notebooks/flightdelays.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: cc559170-62fb-4662-a476-9672ee7c2bfa
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel cc559170-62fb-4662-a476-9672ee7c2bfa
+[NotebookApp | WARNING] Notebook assignments/notebooks/HW6.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 6e5e57c3-8838-49bc-b7ab-c8e8f2864a4b
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 6e5e57c3-8838-49bc-b7ab-c8e8f2864a4b
+[NotebookApp | INFO] Saving file at /assignments/notebooks/HW6.ipynb
+[NotebookApp | INFO] Saving file at /assignments/notebooks/HW6.ipynb
+[NotebookApp | INFO] Saving file at /assignments/notebooks/HW6.ipynb
+[NotebookApp | INFO] Saving file at /assignments/notebooks/HW6.ipynb
+[NotebookApp | INFO] Copying assignments/notebooks/HW6.ipynb to /assignments/notebooks
+[NotebookApp | INFO] Kernel started: 7aa6fbad-bac5-4c06-81eb-2deaf2f93a99
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 7aa6fbad-bac5-4c06-81eb-2deaf2f93a99
+[NotebookApp | INFO] Saving file at /assignments/notebooks/HW6-Copy1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/notebooks/HW6-Copy1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/notebooks/HW6-Copy1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/notebooks/HW6-Copy1.ipynb
+[NotebookApp | WARNING] Notebook assignments/notebooks/HW6-Solutions.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 4aed298c-7e15-4050-812c-2464255bd3a2
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 4aed298c-7e15-4050-812c-2464255bd3a2
+[NotebookApp | INFO] Saving file at /assignments/notebooks/HW6-Solutions.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook assignments/notebooks/HW6-Solutions.ipynb
+[NotebookApp | INFO] Saving file at /assignments/notebooks/HW6-Solutions.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook assignments/notebooks/HW6-Solutions.ipynb
+[NotebookApp | INFO] Saving file at /assignments/notebooks/HW6-Solutions.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook assignments/notebooks/HW6-Solutions.ipynb
+[NotebookApp | INFO] 302 GET /api/contents/assignments/notebooks/04%20-%20Case%20study%20-%20Regression.ipynb?content=0&_=1511562911062 (::1) 0.00ms
+[NotebookApp | WARNING] None
+[NotebookApp | WARNING] 403 PUT /api/contents/assignments/notebooks/04%20-%20Case%20study%20-%20Regression.ipynb (::1) 0.00ms referer=http://localhost:8888/notebooks/assignments/notebooks/04%20-%20Case%20study%20-%20Regression.ipynb
+[NotebookApp | INFO] 302 GET /api/contents/assignments/notebooks/04%20-%20Case%20study%20-%20Regression.ipynb?content=0&_=1511562911063 (::1) 0.00ms
+[NotebookApp | WARNING] None
+[NotebookApp | WARNING] 403 PUT /api/contents/assignments/notebooks/04%20-%20Case%20study%20-%20Regression.ipynb (::1) 0.00ms referer=http://localhost:8888/notebooks/assignments/notebooks/04%20-%20Case%20study%20-%20Regression.ipynb
+[NotebookApp | INFO] 302 GET /api/contents/assignments/notebooks/04%20-%20Case%20study%20-%20Regression.ipynb?content=0&_=1511562911064 (::1) 0.00ms
+[NotebookApp | WARNING] None
+[NotebookApp | WARNING] 403 PUT /api/contents/assignments/notebooks/04%20-%20Case%20study%20-%20Regression.ipynb (::1) 0.00ms referer=http://localhost:8888/notebooks/assignments/notebooks/04%20-%20Case%20study%20-%20Regression.ipynb
+[NotebookApp | INFO] 302 GET /api/sessions?_=1511561565275 (::1) 2.00ms
+[NotebookApp | INFO] 302 GET /api/contents/assignments/notebooks/04%20-%20Case%20study%20-%20Regression.ipynb?content=0&_=1511562911065 (::1) 0.00ms
+[NotebookApp | WARNING] None
+[NotebookApp | WARNING] 403 PUT /api/contents/assignments/notebooks/04%20-%20Case%20study%20-%20Regression.ipynb (::1) 0.00ms referer=http://localhost:8888/notebooks/assignments/notebooks/04%20-%20Case%20study%20-%20Regression.ipynb
+[NotebookApp | INFO] Interrupted...
+[NotebookApp | INFO] Shutting down kernels
