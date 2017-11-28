@@ -295,3 +295,20 @@
 [NotebookApp | WARNING] 403 PUT /api/contents/assignments/notebooks/04%20-%20Case%20study%20-%20Regression.ipynb (::1) 0.00ms referer=http://localhost:8888/notebooks/assignments/notebooks/04%20-%20Case%20study%20-%20Regression.ipynb
 [NotebookApp | INFO] Interrupted...
 [NotebookApp | INFO] Shutting down kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\hermitus\Documents\york_class\yorkBigData
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=22ca39402fcd340d6cc79bc8b27179c83d7a6b2a2e32b006
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=22ca39402fcd340d6cc79bc8b27179c83d7a6b2a2e32b006
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] No such file or directory: assignments/notebooks/04 - Case study - Regression.ipynb
+[NotebookApp | WARNING] 404 GET /api/contents/assignments/notebooks/04%20-%20Case%20study%20-%20Regression.ipynb?content=0&_=1511562911080 (::1) 0.00ms referer=http://localhost:8888/notebooks/assignments/notebooks/04%20-%20Case%20study%20-%20Regression.ipynb
+[NotebookApp | INFO] Uploading file to /assignments/notebooks/04 - Case study - Regression.ipynb
+[NotebookApp | INFO] Interrupted...
+[NotebookApp | INFO] Shutting down kernels
