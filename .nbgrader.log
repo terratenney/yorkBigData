@@ -312,3 +312,20 @@
 [NotebookApp | INFO] Uploading file to /assignments/notebooks/04 - Case study - Regression.ipynb
 [NotebookApp | INFO] Interrupted...
 [NotebookApp | INFO] Shutting down kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\hermitus\Documents\york_class\yorkBigData
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=ed2ce5fced8c586fa9e8cc0d639c4cc742aa47de9c67bdcd
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=ed2ce5fced8c586fa9e8cc0d639c4cc742aa47de9c67bdcd
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] Unreadable Notebook: C:\Users\hermitus\Documents\york_class\yorkBigData\tests and submissions\submissions\week2\Ryan Bray_5621_assignsubmission_file_bray_ryan_week2.ipynb NotJSONError("Notebook does not appear to be JSON: u'<!DOCTYPE HTML>\\n<html>\\n\\n<head>\\n   ...",)
+[NotebookApp | WARNING] 400 GET /api/contents/tests%20and%20submissions/submissions/week2/Ryan%20Bray_5621_assignsubmission_file_bray_ryan_week2.ipynb?type=notebook&_=1511834824771 (::1) 7.00ms referer=http://localhost:8888/notebooks/tests%20and%20submissions/submissions/week2/Ryan%20Bray_5621_assignsubmission_file_bray_ryan_week2.ipynb
+[NotebookApp | WARNING] Notebook tests and submissions/submissions/week2/Yu Liu_5643_assignsubmission_file_liu_yu(lisa)_week2 python.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 989fc14e-0288-4ab0-9f5c-09cd54dda33c
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 989fc14e-0288-4ab0-9f5c-09cd54dda33c
