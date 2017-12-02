@@ -329,3 +329,209 @@
 [NotebookApp | WARNING] Notebook tests and submissions/submissions/week2/Yu Liu_5643_assignsubmission_file_liu_yu(lisa)_week2 python.ipynb is not trusted
 [NotebookApp | INFO] Kernel started: 989fc14e-0288-4ab0-9f5c-09cd54dda33c
 [NotebookApp | INFO] Adapting to protocol v5.1 for kernel 989fc14e-0288-4ab0-9f5c-09cd54dda33c
+[NotebookApp | INFO] 302 GET / (::1) 9.00ms
+[NotebookApp | INFO] 302 GET /tree? (::1) 10.00ms
+[NotebookApp | INFO] Interrupted...
+[NotebookApp | INFO] Shutting down kernels
+[NotebookApp | INFO] Kernel shutdown: 989fc14e-0288-4ab0-9f5c-09cd54dda33c
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\hermitus\Documents\york_class\yorkBigData
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=4c7f2d5c7bbe2bb81db0b81dc5fb6723f431ffd21d977e3a
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=4c7f2d5c7bbe2bb81db0b81dc5fb6723f431ffd21d977e3a
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] Notebook tests and submissions/tests/HW6-Solutions.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 1d792361-523c-4754-8972-8186e069057c
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 1d792361-523c-4754-8972-8186e069057c
+[NotebookApp | INFO] Kernel started: ff1eb38a-d44d-41cb-96f3-f33ad5ffe512
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ff1eb38a-d44d-41cb-96f3-f33ad5ffe512
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/HW6-Solutions.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook tests and submissions/tests/HW6-Solutions.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/HW6.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/HW6.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/HW6.ipynb
+[NotebookApp | WARNING] Notebook tests and submissions/tests/Homework-1.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 119f69a6-8aeb-4544-b549-43ed8e196a09
+[NotebookApp | WARNING] Notebook tests and submissions/tests/Homework-2.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: d2eeaa05-1bdb-49c1-b600-1503e711a287
+[NotebookApp | WARNING] Notebook tests and submissions/tests/Homework-3.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 119f69a6-8aeb-4544-b549-43ed8e196a09
+[NotebookApp | INFO] Kernel started: 93ff09cd-96b8-4897-b313-3c48341db305
+[NotebookApp | WARNING] Notebook tests and submissions/tests/HW4.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d2eeaa05-1bdb-49c1-b600-1503e711a287
+[NotebookApp | WARNING] Notebook tests and submissions/tests/HW5.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: dba28295-c27d-47b2-81e3-bb7b014847f8
+[NotebookApp | INFO] Kernel started: 171d3a23-fc55-420a-a39a-be72258add1d
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 93ff09cd-96b8-4897-b313-3c48341db305
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel dba28295-c27d-47b2-81e3-bb7b014847f8
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 171d3a23-fc55-420a-a39a-be72258add1d
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/HW6.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Homework-1.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook tests and submissions/tests/Homework-1.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Homework-2.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Homework-3.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/HW4.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/HW5.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/HW6.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/HW6.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Homework-1.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook tests and submissions/tests/Homework-1.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/HW6.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/HW6.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/HW6.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/HW6.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/HW6.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/HW6.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/HW6.ipynb
+[NotebookApp | INFO] Kernel started: ae6de2d1-27d7-40af-ae4d-beff545607c8
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ae6de2d1-27d7-40af-ae4d-beff545607c8
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Kernel started: e6ee9fb4-d276-4ab8-b58f-f6ccc2415a5c
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e6ee9fb4-d276-4ab8-b58f-f6ccc2415a5c
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /assignments/notebooks/01 - Introduction to Python (Basics).ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Kernel interrupted: ff1eb38a-d44d-41cb-96f3-f33ad5ffe512
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\hermitus\Documents\york_class\yorkBigData
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=744d43d29041b3e783cdeff091674748e6551824de39e782
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=744d43d29041b3e783cdeff091674748e6551824de39e782
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Kernel started: 97b8f3a8-9eb3-48ca-9c74-6c2b8d2db871
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 97b8f3a8-9eb3-48ca-9c74-6c2b8d2db871
+[NotebookApp | INFO] Kernel started: 3295d43e-8b95-48dc-975e-c9fcceea90a2
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 3295d43e-8b95-48dc-975e-c9fcceea90a2
+[NotebookApp | INFO] Kernel started: 7a51cbe8-45e2-46d5-b824-f75493e0f5ef
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 7a51cbe8-45e2-46d5-b824-f75493e0f5ef
+[NotebookApp | WARNING] Notebook tests and submissions/tests/Midterm_Solutions.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: adef3b68-b2d1-44d7-8fc7-821e806a1eb6
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel adef3b68-b2d1-44d7-8fc7-821e806a1eb6
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Midterm_Solutions.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook tests and submissions/tests/Midterm_Solutions.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | INFO] Saving file at /tests and submissions/tests/Big Data Midterm.ipynb
+[NotebookApp | WARNING] Notebook tests and submissions/tests/Big Data Midterm.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 97b8f3a8-9eb3-48ca-9c74-6c2b8d2db871
+[NotebookApp | INFO] Interrupted...
+[NotebookApp | INFO] Shutting down kernels
